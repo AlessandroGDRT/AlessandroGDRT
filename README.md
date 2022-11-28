@@ -1,3 +1,4 @@
+![Modern Minimal Gradient Background Technology Banner-min](https://user-images.githubusercontent.com/112400062/204390548-befb53bf-23ba-4c85-87e8-cb1197f9b42f.png)
 
 
 <h3>🌱 Currently learning cybersecurity on tryhackme</h3>
